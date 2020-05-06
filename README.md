@@ -12,10 +12,14 @@ UX storytelling puts a human face on dry data and research and ensures that the 
 
 ## Persona and Empathy Maps
 1. Austin Chen
-
+![austin persona](austinpersona.png)
+![austin empathy](austinempathy.png)
 
 2. Chelsea Smith
-
+![chelsea persona](chelseapersona.png)
+![chelsea empathy](chelseaempathy.png)
 
 3. Mary Benson
+![mary persona](marypersona.png)
+![mary empathy](maryempathy.png)
 ## Scenerios and Jounrey Maps
