@@ -11,4 +11,11 @@ UX storytelling puts a human face on dry data and research and ensures that the 
 3. Help and Contact Amazon - a clear help button that will allow users to find hidden or hard-to-find pages and an easy way to contact Amazon asking for support
 
 ## Persona and Empathy Maps
+1. Austin Chen
+
+
+2. Chelsea Smith
+
+
+3. Mary Benson
 ## Scenerios and Jounrey Maps
